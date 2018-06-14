@@ -1,2 +1,2 @@
 # helllo-world
-# sample app
+sample app
